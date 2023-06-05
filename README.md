@@ -19,7 +19,7 @@ Eu sou um entusiasta apaixonado pela tecnologia e todas as suas incríveis possi
      <img src="https://skillicons.dev/icons?i=next,vue,react,unity&perline=4">
   </div>
 
-  <h2>Studing and working in:</h2>
+  <h2>Studying and working in::</h2>
   <div>
      <img height="50em"src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw">
       <img height="50em"src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4">
