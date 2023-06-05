@@ -5,16 +5,16 @@ Eu sou um entusiasta apaixonado pela tecnologia e todas as suas incríveis possi
 
 <div> 
   
-  <img align="right" width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Y8rM8Xls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f40lxbcq8nak6atdurlx.gif" />
+  <img align="right" width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Y8rM8Xls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f40lxbcq8nak6atdurlx.gif"/>
   
-  <h2>✨ Skills ✨</h2>
+  <h2>Principais tecnologias 🧠</h2>
   <div>
      <img src="https://skillicons.dev/icons?i=js,html,css,unity,ps,figma,bootstrap,git&perline=4">
-     <img src="">
+     
   </div>
   
 
-  <h2>Estudando </h2>
+  <h2>Estudando 📚 </h2>
   <div>
      <img src="https://skillicons.dev/icons?i=next,vue,react,unity&perline=4">
   </div>
